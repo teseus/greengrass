@@ -1,4 +1,4 @@
-package Nexpression;
+package nexpression;
 
 class Solution {
     public int solution(int N, int number) {
