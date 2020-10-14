@@ -1,3 +1,4 @@
 rootProject.name = 'weekOne'
 
 include 'neo'
+include 'smtion'
